@@ -55,7 +55,7 @@ async function drawTwoCards() {
     console.log(`${value.toLowerCase()} of ${suit.toLowerCase()}`);
   })};
 
-//   //3
+  //3
 async function setup() {
   let $btn = $('button');
   let $cardArea = $('#card-area');
